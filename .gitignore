@@ -1,0 +1,6 @@
+.idea/
+doc/
+bin/
+obj/
+cwright.pst
+*.user
